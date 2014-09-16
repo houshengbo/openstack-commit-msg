@@ -1,0 +1,2 @@
+openstack-commit-msg
+====================
